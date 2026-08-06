@@ -31,7 +31,7 @@ The dataset contains current weather information and forecast details such as:
 
 
 ## **⭐ Features & Highlights**
-###**Business Problem**
+### **Business Problem**
 Weather information is available on many websites and mobile applications, but it is often spread across different pages. Users may need to check multiple sections to understand the complete weather condition.
 This dashboard brings all important weather information together in one interactive report, making it easier to monitor current weather and forecasts.
 
@@ -85,7 +85,7 @@ The dashboard also reports:
 ### **🌅 Sunrise & Sunset**
 Displays daily sunrise and sunset timings.
 
-### 🌧️** Chance of Rain Chart**
+### 🌧️**Chance of Rain Chart**
 Shows the percentage chance of rainfall for each day of the forecast.
 
 ## **📊 Key KPIs:**
