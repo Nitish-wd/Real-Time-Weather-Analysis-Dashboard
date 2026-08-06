@@ -148,6 +148,6 @@ t can be useful for:
 By presenting all weather information in one place, the dashboard supports faster and more informed decision-making.
 
 ## **Dashboard Preview :**
-
+![Dashboard Preview](https://github.com/Nitish-wd/Real-Time-Weather-Analysis-Dashboard/blob/main/Dashboard%20Screenshot.png)
 
  
