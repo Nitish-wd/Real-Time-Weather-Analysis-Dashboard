@@ -3,6 +3,7 @@
 The Real-Time Weather Analysis Dashboard is an interactive Power BI dashboard that provides live weather information for different cities using data from WeatherAPI.com. It helps users monitor current weather conditions, air quality, rainfall probability, temperature trends, and other important weather metrics through easy-to-understand visualizations.
 
 **Tech Stack**
+
 The dashboard was built using the following tools and technologies:
 
 •	📊 Power BI Desktop – Used to design and develop the interactive dashboard.
