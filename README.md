@@ -57,7 +57,7 @@ he objective of this dashboard is to provide a simple and interactive platform w
 •	View rainfall probability. 
 •	Access all important weather information from one dashboard. 
 
-##Walkthrough of Key Visuals
+## Walkthrough of Key Visuals
 
 ### **🌡️ Current Weather Card**
 Displays the selected city's current temperature, weather condition, and last updated date.
