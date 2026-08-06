@@ -61,11 +61,11 @@ he objective of this dashboard is to provide a simple and interactive platform w
 
 ### **🌡️ Current Weather Card**
 Displays the selected city's current temperature, weather condition, and last updated date.
-###**📅 7-Day Forecast Cards**
+### **📅 7-Day Forecast Cards**
 Shows weather conditions and forecast temperatures for the next seven days.
-###**📈 Temperature Forecast Chart**
+### **📈 Temperature Forecast Chart**
 Displays temperature trends across the upcoming week, making it easy to identify increases or decreases.
-###**☁️ Weather KPI Cards**
+### **☁️ Weather KPI Cards**
 Provides quick access to important weather indicators including:
 •	Humidity 
 •	Wind Speed 
