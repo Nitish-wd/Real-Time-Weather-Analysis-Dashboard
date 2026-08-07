@@ -124,20 +124,35 @@ The dashboard monitors the following key performance indicators:
 
 ## **🧠 Skills Demonstrated**
 This project helped me practice the following Power BI skills:
-•	Importing Data from Web API 
+
+•	Importing Data from Web API
+
 •	Power Query 
+
 •	Data Cleaning 
+
 •	Data Transformation 
+
 •	Data Modeling 
+
 •	DAX Measures 
+
 •	Interactive Dashboard Design 
+
 •	KPI Reporting 
+
 •	Card Visuals 
+
 •	Gauge Charts 
+
 •	Line Charts 
+
 •	Bar Charts 
+
 •	Slicers 
+
 •	Report Formatting 
+
 •	Data Visualization
 
 
